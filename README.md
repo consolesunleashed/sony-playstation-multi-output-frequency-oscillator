@@ -20,7 +20,7 @@ One reason I wanted to design this mod is because I own a single format PAL CRT 
 
 As you can see by the screenshot, this is a 60Hz image, in colour, and with the correct fog effect over composite video. Thanks to the MOFO's SUB-B clock output, I get a PAL60 signal which my PAL only CRT TV can understand.
 
-## PAL60 and Dot Crawl
+## PAL60 & Composite Video Dot Crawl
 
 PAL60 will be prone to the same problems as any standalone PAL60 mod such as dot crawl. The MOFO does not eliminate dot crawl, it is simply a convenient way to generate a PAL60 signal for those that require this mod. However, this may be more in sync and less problematic than standalone PAL60 mods because the clocks are atleast derived from the same clock source.
 
