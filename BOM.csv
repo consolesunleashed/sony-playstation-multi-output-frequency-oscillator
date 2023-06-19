@@ -1,0 +1,8 @@
+Part,MPN,Value,Case/Size,Amount,Digikey,Mouser,Farnell
+Programmable Clock Synthesizer,CDCE925PWR,CDCE925PWR,TSSOP-16,1,296-41230-1-ND,595-CDCE925PWR,
+Capacitor,,1uF / 25V,0603,4,,,
+Resistor,,2.2Kilohm,0603,2,,,
+Resistor,,220Ohm,0603,1,,,
+Resistor,,10Kilohm,0603,2,,,
+Crystal,445I23D27M00000,27MHz / 18pF,,1,CTX1176CT-ND,774-445I23D27M00000,
+Voltage Regulator,TPS78218DDCR,1.8V / 150mA,SOT-23-5,1,296-40962-1-ND,595-TPS78218DDCR,
