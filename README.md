@@ -12,6 +12,8 @@ The multi output frequency oscillator (MOFO) is a dual clock mod for the Sony Pl
 
 The MOFO is an updated version of the MFO which itself was an updated version of the DFO.
 
+![My Image](playstation-mofo-outputs.png)
+
 ## Composite Video & Single Format TV's
 
 One reason I wanted to design this mod is because I own a single format PAL CRT TV and have been wanting to play Silent Hill in 60Hz via composite video. This results in a black and white image so I would be forced to use RGB or play in 50Hz. Neither of which appeals to me for Silent Hill. So I designed the MOFO.
