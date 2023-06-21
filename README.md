@@ -4,7 +4,7 @@ The multi output frequency oscillator (MOFO) is a dual clock mod for the Sony Pl
 
 ![My Image](main.jpg)
 
-## What is the difference between a DFO, MFO , and MOFO?
+## What is the difference between a DFO, MFO, and MOFO?
 
 - The Dual Frequency Oscillator (DFO) provides an auto switching GPU clock output.
 - The Multi Frequency Oscillator (MFO) provides an auto switching GPU clock output and an auto switching subcarrier clock output.
