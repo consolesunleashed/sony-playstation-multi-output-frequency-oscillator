@@ -71,3 +71,9 @@ Nothign special. 1mm PCB is fine.
 If you use this in any way, shape or form, you must include a link back to this repository and mention me by name on any sales pages and social media posts. Not only will this help me to keep designing mod kits and offering them to the community, but it is basic common courtesy as well. Don't be a douchebag. :)
 
 Also this 'GNU GENERAL PUBLIC LICENSE Version 2, June 1991'.
+
+## Donate
+
+Working on designs to release for free can be both time consuming and expensive. If you like what I do, a small donation will go a long way in helping me continue to serve the modding community as best as I can, with many more free and original guides, designs, and ideas to come.
+
+https://ko-fi.com/consolesunleashed
