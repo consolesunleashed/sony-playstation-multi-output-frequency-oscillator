@@ -30,15 +30,15 @@ PAL60 will be prone to the same problems as any standalone PAL60 mod such as dot
 
 PU-8 / PU-18
 
-- GPU Output is necessary for correct GPU clock in 50Hz and 60Hz console modes.
-- Subcarrier Output A is not necessary because the GPU creates the correct PAL & NTSC subcarrier clocks in all regions.
-- Subcarrier Output B can be used to force PAL60 operation for use with TVs that are incompatible with NTSC signals.
+- GPU output is necessary for correct GPU clock in 50Hz and 60Hz console modes.
+- Sub-A output is not necessary because the GPU creates the correct PAL & NTSC subcarrier clocks in all regions.
+- Sub-B output can be used to force PAL60 operation for use with TVs that are incompatible with NTSC signals.
 
 PU-20 / PU-22 / PU-23 / PM-41
 
-- GPU Output is necessary for correct GPU clock in 50Hz and 60Hz console modes.
-- Subcarrier Output A is necessary to get correct PAL & NTSC subcarrier clocks in all regions.
-- Subcarrier Output B can be used to force PAL60 operation for use with TVs that are incompatible with NTSC signals.
+- GPU output is necessary for correct GPU clock in 50Hz and 60Hz console modes.
+- Sub-A output is necessary to get correct PAL & NTSC subcarrier clocks in all regions.
+- Sub-B output can be used to force PAL60 operation for use with TVs that are incompatible with NTSC signals.
 
 ## Recommended Dual Clock Mod
 
@@ -46,17 +46,17 @@ PU-8 / PU-18
 
 - If using RGB = DFO (or MOFO using GPU clock output only)
 - If using composite video & a dual format PAL/NTSC TV = DFO (or MOFO using GPU clock output only)
-- If using composite video & a single format TV = MOFO (Sub Out B)
+- If using composite video & a single format TV = MOFO (GPU clock output & Sub-B clock output)
 
 PU-20 / PU-22 / PU-23 / PM-41
 
 - If using RGB = DFO (or MOFO using GPU clock output only)
-- If using composite video & a dual format PAL/NTSC TV = MOFO (Sub Out A)
-- If using composite video & a single format TV = MOFO (Sub Out B)
+- If using composite video & a dual format PAL/NTSC TV = MOFO (GPU clock output & Sub-A clock output)
+- If using composite video & a single format TV = MOFO (GPU clock output & Sub-B clock output)
 
 ## Manufacturing
 
-Nothign special. 1mm PCB is fine.
+Nothing special. 1mm PCB is fine.
 
 ## Version History
 
