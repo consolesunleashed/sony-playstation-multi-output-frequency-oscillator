@@ -1,3 +1,7 @@
+Working on designs to release for free can be both time consuming and expensive. If you like what I do, a small donation will go a long way in helping me continue to serve the modding community as best as I can, with many more free and original guides, designs, and ideas to come.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C7NK7XO)
+
 # Sony PlayStation Multi Output Frequency Oscillator (MOFO)
 
 The multi output frequency oscillator (MOFO) is a dual clock mod for the Sony PlayStation that provides a switchable PAL/NTSC GPU clock and PAL/NTSC RGB Encoder subcarrier clock, as well as a fixed subcarrier clock for PAL60 operation.
